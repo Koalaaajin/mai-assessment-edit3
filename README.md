@@ -17,3 +17,9 @@ or using yarn:
 ```sh
 yarn add @babel/core --dev
 ```
+
+## Running Tests
+
+```sh
+npm test
+```
